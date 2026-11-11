@@ -1,0 +1,4 @@
+interface:
+  display_name: "面试企业研究"
+  short_description: "看懂公司业务、岗位价值与面试重点"
+  default_prompt: "帮我研究这家公司和目标岗位，先给我一页式结论。"
